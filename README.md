@@ -1,7 +1,7 @@
 ### Hi there 👋
 Portfolio: https://hye-stone.github.io/hye-seok-portfolio/
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23D8B3DF&title_bg=%238F9CDB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hye-stone)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hye-stone%2Fgjbae1212%2Fhit-counter&count_bg=%23D8B3DF&title_bg=%238F9CDB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hye-stone)
 <!--
 **hye-stone/hye-stone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
